@@ -1,6 +1,5 @@
 # Between pixels e scripts, I keep creating..
-
-
+Designer digital explorando arte, interfaces e experiências visuais. Transformando ideias em projetos criativos no mundo digital.
 <!--    
 **whiyooh/whiyooh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
